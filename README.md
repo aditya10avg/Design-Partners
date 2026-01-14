@@ -37,6 +37,85 @@ Optimized for **founders seeking validation, pilots, funding, manufacturing acce
 
 ---
 
+
+## 📌 Program Directory — India (Bengaluru & Karnataka Ecosystem)
+
+### **Bengaluru: Global Deep Tech & Corporate Hub**
+
+#### **A. Academic & Deep Science Incubators**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **NSRCEL (IIM Bangalore)** | Flagship incubator at IIMB | Strong business modeling, impact programs & women-founder focus | https://nsrcel.org | Idea to Scale | Program-based | Bengaluru |
+| **SID (IISc)** | IISc’s deep-tech incubator | Access to world-class labs for high-IP startups | https://sid.iisc.ac.in | Deep science | Institute terms | Bengaluru |
+| **C-CAMP** | National bio-incubator (DBT) | Plug-and-play wet labs + BIRAC funding access | https://www.ccamp.res.in | Biotech / LifeSci | Grants / Low equity | Bengaluru |
+| **IIIT-B Innovation Centre (ORBIT)** | AI-for-good incubator | AI/ML startups for civic & health challenges | https://www.iiitb.ac.in/orbit | MVP+ | Govt-backed | Bengaluru |
+| **Jain Launchpad** | University incubator (DST-backed) | Focused programs in food-tech & aerospace | https://jainuniversity.ac.in | Early stage | Subsidized | Bengaluru |
+
+---
+
+#### **B. Corporate Accelerators (Market Access First)**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **Target Accelerator Program** | Target Corp’s innovation arm | Retail pilots inside Target’s global systems | https://accelerators.target.com | Pilot-ready | Zero Equity | Bengaluru / Global |
+| **NetApp Excellerator** | Equity-free B2B accelerator | Cloud & data PoCs with NetApp | https://www.netapp.com/excellerator | B2B DeepTech | Zero Equity | Bengaluru |
+| **Cisco LaunchPad** | Cisco co-creation program | Integrate with Cisco for enterprise access | https://launchpad.cisco.com | MVP+ | Zero Equity | Bengaluru |
+| **Lowe’s Innovation Labs** | Futuristic retail R&D unit | AR/VR, robotics pilots for retail | https://www.lowesinnovationlabs.com | Advanced tech | Paid pilots | Bengaluru / USA |
+| **SAP Startup Studio** | SAP ecosystem accelerator | Access to SAP customers & platforms | https://www.sap.com/startups | Enterprise SaaS | Zero Equity | Bengaluru |
+| **Boeing BUILD** | Aerospace innovation program | University + early startup aerospace pilots | https://www.boeing.co.in | Students / Early | Zero Equity | Bengaluru |
+| **Google for Startups (AI First)** | Google-backed AI accelerator | Support for GenAI & foundational AI startups | https://startup.google.com | AI-first | Zero Equity | Bengaluru |
+| **Philips HealthWorks** | HealthTech accelerator | Clinical validation using real datasets | https://www.philips.com/healthworks | MedTech MVP+ | Equity-based | Bengaluru |
+
+---
+
+#### **C. Private & VC-Led Accelerators**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **Axilor Ventures** | Accelerator + VC | 100-day sprint to institutional readiness | https://axilor.com | Early stage | Equity-based | Bengaluru |
+| **Techstars Bangalore** | Global accelerator chapter | Capital + global mentor network | https://www.techstars.com | Early stage | ~6% equity | Bengaluru |
+| **Social Alpha** | Impact-first foundation | Lab-to-market for climate & health | https://socialalpha.org | Science-driven | Patient capital | Bengaluru |
+| **Rainmatter** | Zerodha-backed fund | Long-term fintech & health capital | https://rainmatter.com | Early stage | Flexible | Bengaluru |
+| **Brigade REAP** | PropTech accelerator | Pilots inside Brigade real estate assets | https://brigadereap.com | PropTech | Equity-based | Bengaluru |
+
+---
+
+### **Beyond Bengaluru: Karnataka Regional Hubs**
+
+#### **Hubballi–Dharwad & Belagavi**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **Deshpande Startups** | India’s largest non-metro incubator | Sandbox pilots for rural India | https://deshpandefoundation.org | Impact startups | Grants / Zero | Hubballi |
+| **Krishik (UAS Dharwad)** | Agri-incubator | RKVY-RAFTAAR grants up to ₹25L | https://krishik.in | AgriTech | Grant-based | Dharwad |
+| **dhaRti Foundation (IIT Dharwad)** | Bio-NEST incubator | Research → market for clean & agri tech | https://iith.ac.in/dharti | DeepTech | Grants | Dharwad |
+| **KLE CTIE** | Engineering-led incubator | VLSI, ESDM & manufacturing support | https://klectie.com | Hardware | Institute terms | Hubballi / Belagavi |
+| **K-Tech Innovation Hub (Belagavi)** | Common Instrumentation Facility | CNC & prototyping infra access | https://ikpknowledgepark.com | Hardware | Usage-based | Belagavi |
+
+---
+
+#### **Mysuru & Mangaluru**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **SJCE-STEP** | Legacy TBI (40+ years) | DeepTech & AI over electronics base | https://sjcestep.in | Tech startups | Nominal | Mysuru |
+| **MUTBI (Manipal)** | Medical incubator | Med devices & diagnostics focus | https://mutbi.manipal.edu | MedTech | Institute terms | Manipal |
+| **NITK-STEP** | NIT Karnataka incubator | Engineering + marine tech focus | https://nitk.ac.in | Students / Faculty | Minimal | Surathkal |
+| **K-Tech Innovation Hub (Mangaluru)** | IKP-managed hub | Hardware infra for coastal startups | https://ikpknowledgepark.com | Hardware | Usage-based | Mangaluru |
+
+---
+
+#### **Emerging Clusters: Kalaburagi & Tumakuru**
+
+| Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
+|-------------|------------|--------------------------|---------|-------------|---------------|----------|
+| **LEAP – Centre for Entrepreneurship** | Local Economy Accelerator | Rural & agri innovation pilots | https://leapfoundation.in | Early stage | Grant-based | Kalaburagi |
+| **SIT–NAIN Centre** | NAIN-backed incubator | Student innovation for smart cities | https://sit.ac.in | Students | Govt-backed | Tumakuru |
+| **TIIEC** | Coconut value-chain council | Rural enterprise & agri processing | — | Agri startups | Non-profit | Tumakuru |
+
+
+
 ## 📌 Program Directory — India (Regional Maharashtra / Bharat)
 
 | Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
