@@ -116,6 +116,70 @@ Optimized for **founders seeking validation, pilots, funding, manufacturing acce
 
 
 
+## 🇮🇳 India — Corporate, VC & Founder-First Programs
+
+### 🏭 Corporate-Led Innovation Programs  
+*Focus: Market access, paid pilots (PoCs), strategic distribution*
+
+| Program Name | Backed By | Focus Areas | How it Helps |
+|-------------|----------|-------------|--------------|
+| **Maruti Suzuki MAIL** | Maruti Suzuki | Mobility, Logistics, AI, AR/VR | Paid PoCs inside Maruti’s manufacturing & supply-chain ecosystem |
+| **MG Developer Program** | MG Motor India | EVs, Connected Cars | “Car as a Platform” — build apps & hardware for connected mobility |
+| **Airtel Startup Accelerator** | Bharti Airtel | Consumer Tech, SaaS, 5G | Strategic investment + access to 300M+ Airtel users |
+| **Zomato Labs / Blinkit** | Zomato | Quick Commerce, AI | Internal acceleration, acquisitions & infra-level AI deployment |
+
+---
+
+### 💰 Private & VC-Led Accelerators  
+*Focus: Funding, scale, global network access*
+
+| Program Name | Type | Focus Areas | How it Helps |
+|-------------|------|-------------|--------------|
+| **India Accelerator (IA)** | GAN Partner | DeepTech, AI, Impact | Multi-stage funding + global accelerator network |
+| **Huddle Ventures** | VC + Accelerator | D2C, FinTech, Climate | High-conviction pre-seed support + fundraising playbooks |
+| **GSF Accelerator** | Private Accelerator | Consumer, DeepTech | Founder Academy + global immersion (US/Japan) |
+| **The Circle – Founders Club** | Hunch Ventures | Cross-border Innovation | India ↔ Israel/Korea market access |
+| **ZDream Ventures** | VC / Accelerator | Media, Content Tech | India–China ecosystem bridge |
+
+---
+
+### 🧠 Niche & Sector-Specific Enablers  
+*Focus: Healthcare, IoT, EdTech, hardware-heavy startups*
+
+| Program Name | Focus Areas | How it Helps |
+|-------------|------------|--------------|
+| **NASSCOM CoE – IoT & AI** | IoT, Hardware, Robotics | Full hardware lab + enterprise connect |
+| **HealthStart** | Healthcare, MedTech | Seed funding + hospital pilots |
+| **UIncept** | EdTech | Navigate school/university sales cycles |
+
+---
+
+### 🌱 Founder-First & Pre-Seed Programs  
+*Focus: Idea → MVP → first cheque*
+
+| Program Name | Model | How it Helps |
+|-------------|-------|--------------|
+| **PedalStart** | Hybrid / Community | Execution-focused startup sprints + internal fund |
+| **PadUp Ventures** | Mentorship-Led | Structured path: Validate → Fund → Scale |
+
+---
+
+### 🎓 University & Government Incubators  
+*Focus: Students, grants, infra, early validation*
+
+| Program Name | Host | How it Helps |
+|-------------|------|--------------|
+| **MDI AccelCube (MILE)** | MDI Gurgaon | B-school backed incubation + simulations |
+| **ACIC-BMU Propel** | BML Munjal Univ. | Industry 4.0 & manufacturing focus |
+| **Amity Innovation Incubator** | Amity University | Biotech + grassroots innovation |
+| **NCU-STICTH** | NorthCap University | Student-first incubation |
+| **HARTRON Innovation Hub** | Govt. of Haryana | Subsidized co-working + NASSCOM access |
+
+---
+
+
+
+
 ## 📌 Program Directory — India (Regional Maharashtra / Bharat)
 
 | Program Name | Description | How it Helps (One Liner) | Website | Eligibility | Fees / Equity | Location |
